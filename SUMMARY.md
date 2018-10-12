@@ -1,6 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
+* [README](README.md)
+* [Introduction](introduction.md)
 * [History](history.md)
 * [Culture](culture.md)
 
