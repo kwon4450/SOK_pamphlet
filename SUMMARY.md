@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [README](README.md)
 * [Introduction](introduction.md)
   * [Definition](introduction/definition.md)
   * [ProsAndCons](introduction/prosandcons.md)
