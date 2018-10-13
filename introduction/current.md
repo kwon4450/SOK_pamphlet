@@ -10,7 +10,7 @@
 
 ![](/assets/Ubuntu.jpeg)
 
-우분투는 리눅스 커널을 기반으로 한 리눅스 배포판 가운데 하나이다. 
+우분투는 리눅스 커널을 기반으로 한 리눅스 배포판 가운데 하나이다.
 
 > ### BSD
 
@@ -22,27 +22,23 @@ BSD는 빌 조이\(Bill Joy\)를 주축으로 캘리포니아 대학교 버클�
 
 ![](/assets/MySQL.png)
 
-
-
-MySQL은
+MySQL은 1955년 발표된 오픈소스 DBMS이다.
 
 > ### APACHE
 
 ![](/assets/Apache.jpeg)
 
-아파치는
+Apache HTTP Server\(약칭 "httpd"\)는 오픈 소스 소프트웨어 그룹인 아파치 소프트웨어 재단에서 만드는 웹 서버 프로그램이다. 팀 버너스 리가 만든 최초의 웹 서버 프로그램인 "NCSA HTTPd"를 기반으로 만들어졌다. 팀 버너스 리의 NCSA HTTPd는 유닉스 기반으로 만들어졌기에, 아파치 HTTP 서버는 NCSA HTTPd를 리눅스에서도 돌리는 것을 목표로 만들어진 프로그램이다. 그 이후 리눅스와 함께 퍼져나갔고, 리눅스가 서버 OS의 최다 점유율을 차지하자 아파치도 자연스럽게 최다 점유율을 차지하게 되었다. 현재 거의 모든 리눅스 배포판이 이 아파치를 지원한다.
 
 > ### FIREFOX
 
 ![](/assets/Firefox.png)
 
-파이어폭스는
+파이어폭스는 모질라 재단에서 데이브 하야트\(Dave Hyatt\), 조 휴이트\(Joe Hewitt\), 블레이크 로스\(Black Ross\) 주도로 개발한 게코 엔진 기반의 오픈 소스 웹 브라우저이다. 원래 만들어졌을 당시 이름은 Phoenix였다. 0.6, 0.6.1, 0.7, 0.7.1 버전에서는 Firebird라 불리었고, 0.8 버전부터 지금까지 Firefox라는 이름으로 불리우고 있다.
 
 > ### WORDPRESS
 
-### ![](/assets/WordPress.png)
+![](/assets/WordPress.png)
 
-워드프레스는
-
-
+워드프레스는 오픈소스 설치형 브로그이자 CMS, PHP 기반이며 라이센스는 GNU GPL v2이다.
 
