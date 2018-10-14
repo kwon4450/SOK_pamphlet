@@ -1,6 +1,6 @@
-# 목차
+# Summary
 
-## 사용법
+## README
 
 * [0. README](README.md)
 
@@ -24,6 +24,4 @@
 ## 참고문헌
 
 * [참고문헌](reference.md)
-
-
 
