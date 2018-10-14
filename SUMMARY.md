@@ -19,8 +19,7 @@
 
 ## 오픈소스의 문화
 
-* [Culture](culture.md)
-  * [tmp](culture/tmp.md)
+* tmp
 
 ## 참고문헌
 
