@@ -1,5 +1,3 @@
-- 빈 부분은 아직 못채웠고, 쓴 부분도 초안입니다.
-
 현대의 오픈소스 문화
 ===
 
@@ -216,40 +214,90 @@ Software
 
 Machine Learning
 ---
-###### TensorFlow
-> test
+###### *TensorFlow* - [Github](https://github.com/tensorflow) | [Home](https://www.tensorflow.org/?hl=ko)
+> Google이 Python과 C++를 이용해 개발하고 2015년 발표한 라이브러리.
+>
+> 발표 이후로 Github의 Star를 수천, 수만개를 받아낼 정도의 인기 오픈소스 프로젝트이다. 다수의 머신러닝, 딥러닝(신경망) 모델과 알고리즘을 이용, 활용도를 최대한 높였다.
+>
+> 사실 TensorFlow는 머신러닝만을 위한 라이브러리가 아니고, 대규모 숫자 계산을 위한 라이브러리이다. 실제로 구글은 TensorFlow를 '데이터 흐름 그래프를 사용하는 수치 연산용 오픈소스 소프트웨어 라이브러리' 라고 소개하고 있다.
+>
+> Tensor는 다차원 행렬 계산을 의미하고, Flow는 말 그대로 흐르게 하는 의미이며, Tensor Board를 이용하면 데이터의 흐름을 시각화 할 수 있다.
+>
+> 이 외에도 다양한 모듈과 결합하여 사용하기 수월한 점이나 개발자가 소프트웨어의 전체적인 논리에만 집중할 수 있고, 배후의 세부적인 부분은 Tensor Flow가 알아서 처리해준다는 장점이 있다.
+>
+> 아파치 2.0 라이센스의 오픈소스이며, 구글을 비롯한 다양한 기업에서 활용되고 있다.
 
-###### Microsoft Machine Learning API
-> https://azure.microsoft.com/ko-kr/overview/open-source/
+###### *Microsoft Azure Open Sources* - [Github](https://github.com/topics/azure) | [Home](https://azure.microsoft.com/ko-kr/overview/open-source/)
+> Microsoft는 2010년도 이후로부터 친 오픈소스 행보를 보였는데, 2015년 CEO가 '마이크로소프트는 리눅스를 사랑한다' 라고 발표한 뒤로 여러 오픈소스 재단과 파트너쉽을 맺거나 각종 기술들을 공개하는 등 오픈소스 소프트웨어 생태계를 적극적으로 지원해 왔다.
+>
+> 실제로도 Github에서 활발히 (직업을 등록하고) 활동하고 있는 회사 중 하나가 Microsoft의 직원들이다. 올해 여름에는 Github를 인수하기도 했다.
+> 
+> Microsoft의 클라우드 플랫폼인 Azure 활성화를 위해 수많은 기능을 공개했는데, 그 중에는 머신러닝 툴킷 DMTK를 오픈소스로 공개했다.
+> [DMTK Gitgub](https://github.com/Microsoft/DMTK) | [DMTK Home](http://www.dmtk.io/)
 
-###### Open AI Foundation
-> test
+###### OpenAI - [Github](https://github.com/openai) | [Home](https://openai.com/)
+> OpenAI는 비영리 인공지능 연구 회사로서, Tesla의 머스크와 다른 투자자들이 투자해 만든 비영리 단체이다.
+>
+> 2016년 OpenAI는 강화학습 연구를 위한 플랫폼인 OpenAI Gym의 공개 베타를 출시했고, 소프트웨어 플랫폼인 Universe를 출시하는 등 활발한 행보를 보이고 있다.
+>
+> DeepMind에 대항해 OpenAI가 새로 개발한 기술은 진화 관점에서 접근했다. OpenAI가 50개 이상의 게임을 통해 소프트웨어를 테스트한 결과, DeepMind가 강화학습 훈련을 적용하는 데 하루가 걸렸던 것을 단 한시간만에 달성할 수 있었다.
+>
+> 이러한 진화 전략은 로봇공학의 표준테스트에서도 성과를 보였다. 10시간을 투입했어야 했을 과제를 단 10분만에 성공했다고 한다.
+>
+> 참고로 OpenAI의 Gym도 파이썬 패키지로 제공하며, 완전 공개되어 있다. 
+> [Github](https://github.com/openai/gym) | [News](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3818)
 
-###### Open Neural Network Exchange Format
-> test
+###### *Open Neural Network Exchange* - [Github](https://github.com/onnx/onnx) | [Home](https://onnx.ai/)
+> Open Neural Network Exchange (ONNX)는 Microsoft, Amazon, Facebook등의 기업들이 오픈소스 프로젝트로 공동 개발한 서로 다른 오픈 소스 AI 프레임워크 간의 상호 운용성을 허용하는 심층 학습 모델을 위한 형식을 제시한다.
 
-###### Deepmind OPEN API
-> test
+###### *Deepmind Open Sources* - [Github](https://github.com/deepmind) | [Home](https://deepmind.com/research/open-source/)
+> 영국의 인공지능 연구 회사이다. 2014년 구글에 인수되었고, 유명한 프로그램인 알파고를 개발했다. 한국에서 머신러닝은 몰라도 알파고를 모르는 사람은 없다.
+>
+> 알파고는 딥마인드가 개발한 알고리즘인 Deep Q-Network(DQN)라는 알고리즘을 사용하는데, 다층 신경망 기술과 Q-Learning을 조합한 딥러닝 알고리즘이다.
+>
+> 딥마인드는 구글에 인수된 이후로 다양한 라이브러리와 기술들을 공개했는데, 그 중에는 구글의 TensorFlow를 활용한 라이브러리인 Sonnet가 있다.
+>
+> 그 외에도 인공지능 기술 테스트 플랫폼인 DeepMind Lab등 다양한 방면의 소프트웨어를 공개하고 있다.
 
-###### DeepDream
-> test
+###### *DeepDream* - [Github](https://github.com/google/deepdream) | [Home](https://deepdreamgenerator.com/)
+> DeepDream은 구글 엔지니어가 개발한 컴퓨터 비전 프로그램이다. 최근 자동 포토샵 프로그램으로 유명해졌다. 네이버에 검색하면 신한카드만 나온다.
+>
+> DeepDream은 수많은 사진들을 학습시켜 이미지 구분이 가능하도록 만들어졌고, 신경망 네트워크를 통해 이미지 패턴을 향상시키고 축적된 알고리즘을 토대로 이미지를 만들어 낸다.
+>
+> TensorFlow를 활용해 매우 유사한 프로그램을 만들어 볼 수 있다.
+> [Blog](http://solarisailab.com/archives/535)
 
 
 Contents Management System (CMS)
 ---
-###### Textcube
+###### *Textcube* - [Github](https://github.com/Needlworks/Textcube) | [Home](http://www.textcube.org/)
+> 태터네트워크재단이 만든 설치형 블로그 시스템. GNU 라이센스를 따르며, 2년전 업데이트를 이후로 공식 업데이트는 중단된 상황이다.
+>
+> 2010년도 초반만 하더라도 준수한 속도와 특유의 감성으로 수요가 있었지만, 국내에선 XE의 강세, 네이버의 블로그, 카페 밀어주기로 인해 밀려난 느낌이 있다.
+
+###### *XpressEngine* - [Github](https://github.com/xpressengine/xe-core) | [Home](https://www.xpressengine.com)
+> BBS 프로그램 Zeroboard를 개발한 고영수 개발자가 네이버의 지원을 받아 제작했던 웹 사이트 CMS이다. 지금은 네이버가 개발팀을 만들어 운영하고 있다.
+>
+> 다른 CMS에 비해 손쉬운 사용성과 제로보드로 인한 유저층까지, 인기가 없을래야 없을 수가 없었다.
+>
+> 여타 CMS와 마찬가지로 개발자가 따로 개발한 애드온, 모듈 등은 각각의 저작권을 가진다. 제로보드와 마찬가지로 국내 점유율 1위의 CMS이다.
+>
+> 초창기 XE는 제로보드의 판올림 느낌이 강했다. 또한 XE 1.4/1.5/1.7이 공존하던 2012~2014년에는 호환성 문제가 심했지만, 그만큼 신규 이용자의 유입이 많았다는 반증이 아닐까 한다.
+>
+> 현재는 XE 1.11 버전이 업데이트 되었고 꾸준한 수요와 인기가 있다. 다른 버전으로는 1.8 버전을 fork한 커뮤니티에 특화된 Rhymix와 1.x 버전대와 전혀 다른, 네이버가 개발하고 있는 XE3도 존재한다.
+
+###### *Rhymix* - [Github](https://github.com/rhymix/rhymix) | [Home](https://rhymix.org/) | [Community](https://xetown.com/)
+> XE가 XE 1.8과 XE3을 동시에 개발하면서 업데이트가 느려지자, XE를 fork해 개발한 CMS이다. XE와 호환성이 좋다.
+>
+> XE와는 다르게 GPL 라이센스를 따른다. XE에서 Rhymix로 옮기는 것은 수월하지만, Rhymix에서 XE로 옮기는 것은 조금 어렵다. 초창기와는 다르게 세세한 부분에서 바뀐 부분이 많다. 
+
+###### GNUBoard
 > test
 
-###### XpressEngine
-> test
-
-###### Rhymix
+###### Drupal
 > test
 
 ###### Zoomla
-> test
-
-###### GNUBoard
 > test
 
 ###### WordPress
