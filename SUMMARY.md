@@ -2,8 +2,8 @@
 
 * [0. README](README.md)
 * [2. History](history.md)
-  * [2.2 1970년대](history/tmp.md)
-  * [2.5 오픈소스의 황금기](history/c624-d508-c18c-c2a4-c758-d669-ae08-ae30.md)
+  * [2.2 1970년대](history/1970.md)
+  * [2.5 오픈소스의 황금기](history/goldentime.md)
 * [1. 오픈소스 소개](introduction.md)
   * [1.1 오픈소스란 무엇인가?](introduction/definition.md)
   * [1.2 오픈소스의 장점과 단점](introduction/prosandcons.md)
