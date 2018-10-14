@@ -1,6 +1,6 @@
 # 참고문헌
 
-* [오픈소스란?](http://www.ezmeta.co.kr/page/?p=1055")
+* [오픈소스란?](http://www.ezmeta.co.kr/page/?p=1055)
 * [위키-오픈소스](https://ko.wikipedia.org/wiki/%EC%98%A4%ED%94%88_%EC%86%8C%EC%8A%A4)
 * [나무위키-리눅스](https://namu.wiki/w/%EB%A6%AC%EB%88%85%EC%8A%A4)
 * [나무위키-우분투](https://namu.wiki/w/%EC%9A%B0%EB%B6%84%ED%88%AC?from=Ubuntu)
