@@ -1,8 +1,6 @@
-참고문헌입니다.
+참고문헌입니다. \(수정필요\)
 
-ㅁㄴㅇㄻㄴㅇㄹ
+https://www.youtube.com/watch?v=4ZHloJVhcRY&t=4311s -Revolution OS
 
-수정했습돠
 
-저두 수정합니다
 
