@@ -17,6 +17,7 @@
 * [2.5 오픈소스의 황금기](2.0_history/2.5_goldentime.md)
 * 2.3.1 1980년대 GNU의 설립
 * [2.3.2 오픈소스라는 단어의 사용](2.0_history.md/232-c624-d508-c18c-c2a4-b77c-b294-b2e8-c5b4-c758-c0ac-c6a9.md)
+* [2.3.3 성당과 시장](2.0_history.md/233-c131-b2f9-acfc-c2dc-c7a5.md)
 
 ## 3.0 오픈소스의 문화
 
