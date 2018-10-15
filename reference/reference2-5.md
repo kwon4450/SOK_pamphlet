@@ -1,6 +1,6 @@
-참고문헌입니다. \(수정필요\)
+# 참고문헌
 
-https://www.youtube.com/watch?v=4ZHloJVhcRY&t=4311s -Revolution OS
+* [Revolution OS](/h ttps://www.youtube.com/watch?v=4ZHloJVhcRY&t=4311s)
 
 
 
