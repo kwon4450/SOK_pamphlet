@@ -14,7 +14,7 @@
 * [2.1 1950년대 ~ 1960년대](2.0_history/2.1_tmp.md)
 * [2.2 1970년대](2.0_history/2.2_1970.md)
 * [2.3.1 1980년대 GNU의 설립](2.0_history/2.3.1_establishment.md)
-* [2.3.2 오픈소스라는 단어의 사용](2.0_history/useopensource.md)
+* [2.3.2 오픈소스라는 단어의 사용](2.0_history/2.3.2_useopensource.md)
 * [2.3.3 성당과 시장](2.0_history/2.3.3_TheCathedralAndTheBazaar.md)
 * [2.4 1990년대](2.0_history/2.4_1990.md)
 * [2.5 오픈소스의 황금기](2.0_history/2.5_goldentime.md)
