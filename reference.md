@@ -24,3 +24,8 @@
 
 [성당과 시장](https://ko.wikipedia.org/wiki/%EC%84%B1%EB%8B%B9%EA%B3%BC_%EC%8B%9C%EC%9E%A5)
 
+[유닉스, 리눅스, 오픈 소스/자유 소프트웨어의 역사](https://wiki.kldp.org/HOWTO/html/Secure-Programs-HOWTO/history.html)
+
+[리눅스란?](https://blog.naver.com/wb__/221104917149)
+
+[오픈소스 소프트웨어 연구 보고서](https://www.olis.or.kr/download/attachFile.do?fileSeq=43)
