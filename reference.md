@@ -22,5 +22,5 @@
 
 [Revolution OS](https://www.youtube.com/watch?v=4ZHloJVhcRY&t=4311s)
 
-[성당과 시장](https://ko.wikipedia.org/wiki/%EC%84%B1%EB%8B%B9%EA%B3%BC_%EC%8B%9C%EC%9E%A5)=
+[성당과 시장](https://ko.wikipedia.org/wiki/%EC%84%B1%EB%8B%B9%EA%B3%BC_%EC%8B%9C%EC%9E%A5)
 
