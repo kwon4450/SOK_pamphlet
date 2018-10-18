@@ -1,6 +1,6 @@
 # 참고문헌
 
-[http://www.ezmeta.co.kr/page/?p=1055](http://www.ezmeta.co.kr/page/?p=1055)
+[테스트](http://www.ezmeta.co.kr/page/?p=1055)
 
 [https://ko.wikipedia.org/wiki/%EC%98%A4%ED%94%88\_%EC%86%8C%EC%8A%A4](https://ko.wikipedia.org/wiki/오픈_소스)
 
