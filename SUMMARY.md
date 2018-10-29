@@ -1,7 +1,5 @@
 # Summary
 
-* [0. README](README.md)
-
 ## 1.0 오픈소스 소개
 
 * [1.1 오픈소스란 무엇인가?](1.0_introduction/1.1_definition.md)
@@ -34,4 +32,6 @@
 ## 참고문헌
 
 * [참고문헌](reference.md)
+
+
 
