@@ -30,11 +30,8 @@
 * [3.7 OS](3.0_culture/3.7_Operation_System.md)
 * [3.8 디자인 요소](3.0_culture/3.8_Design_Material.md)
 * [3.9 하드웨어 요소](3.0_culture/3.9_Hardware_ToolKit.md)
-* [3.10 Outro](3.0_culture/3.10_Outro.md)
 
 ## 참고문헌
 
 * [참고문헌](reference.md)
-
-
 
