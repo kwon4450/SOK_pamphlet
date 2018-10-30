@@ -1,0 +1,10 @@
+{
+    "title": "SOKPamphlet",
+    "author": "A01",
+    "pdf": {
+        "fontSize": 12,
+        "paperSize": "a4",
+        "fontFamily": "나눔명조",
+        "chapterMark": "none"
+    }
+}
