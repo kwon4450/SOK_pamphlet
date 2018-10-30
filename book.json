@@ -1,64 +1,12 @@
 {
-	// 현재 문서에서 사용할 플러그인들
-	"plugins": [ "theme-api", "hide-published-with", "multipart" ],
-	// 그 플러그인들의 셋팅..
-	"pluginsConfig": {
-		"theme-api": {
-			"languages": [
-				{
-					"lang": "js",
-					"name": "JavaScript",
-					"default": true
-				},
-				{
-					"lang": "go",
-					"name": "Go"
-				}
-			]
-		}
-	},
 	
-	// 현재 문서의 타이틀. 웹에서 setting에서도 정해줄 수 있음.
-	// description, authors, isbn, lanhuage 등..
-	"title": "Picky Cookbook API Document",
-	
-	// 현재 문서에 추가할 링크
-	"links": {
-		// 링크를 추가할 위치. 왼쪽 상단에 나온다.
-		"sidebar": {
-			// 보여줄 링크 이름: 링크
-			"Warp to Picky Cookbook Site": "https://pickycookbook.co.kr",
-			"Warp to Github": "https://github.com/fc-pickyeater/wps-picky"
-		}
-	},
-	
-	// css 적용 가능하다.
-	"styles": {
-	    "website": "styles/website.css",
-	    "ebook": "styles/ebook.css",
-	    "pdf": "styles/pdf.css",
-	    "mobi": "styles/mobi.css",
-	    "epub": "styles/epub.css"
-	},
-	
-	// pdf 옵션
 	"pdf": {
-	
-		// font size. 기본은 12
-		"fontSize": 9,
-		
-		// paper size. 기본이 a4이므로 딱히 써주지 않아도 됨.
+
 		"paperSize": "a4",
 		
-		// font를 정해줄 수 있다. 하지만 난 안썼음..
-		"fontFamily": [폰트 이름],
-		
-		// chapter가 바꿜때 어떻게 할건지..
-		// 가능한 옵션 : pagebreak,rule,both,none
 		"chapterMark": "both"
 		
 		
-		// 페이지 여백 설정. 1인치가 72 
 		"margin": {
 			"right": 42,
 			"left": 42,
@@ -66,7 +14,7 @@
 			"bottom": 56
 		},
 		
-		// 페이지 위, 아래에 보일 값 선택 (적용되지 않음. 아래에 추가 설명)
+
 		"headerTemplate": "_TITLE_",
 		"footerTemplate": "_SECTION_"
 	}
